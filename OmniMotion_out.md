@@ -44,3 +44,42 @@
 <td><img src="out\lab-coat_100000_foreground_0.gif"	border=0></td>    
 </tr></table>
 
+
+
+
+
+<table><tr>
+<td><img src="out\rollerblade_100000_0_trails.gif" 	 border=0></td>
+<td><img src="out\rollerblade_100000_background_0.gif"	border=0></td>
+<td><img src="out\rollerblade_100000_foreground_0.gif"	border=0></td>    
+</tr></table>
+
+
+
+
+
+<table><tr>
+<td><img src="out\swing_100000_0_trails.gif" 	 border=0></td>
+<td><img src="out\swing_100000_background_0.gif"	border=0></td>
+<td><img src="out\swing_100000_foreground_0.gif"	border=0></td>    
+</tr></table>
+
+
+
+
+
+<table><tr>
+<td><img src="out\swing_tire_100000_0_trails.gif" 	 border=0></td>
+<td><img src="out\swing_tire_100000_background_0.gif"	border=0></td>
+<td><img src="out\swing_tire_100000_foreground_0.gif"	border=0></td>    
+</tr></table>
+
+
+
+
+
+<table><tr>
+<td><img src="out\tennis_100000_0_trails.gif" 	 border=0></td>
+<td><img src="out\tennis_100000_background_0.gif"	border=0></td>
+<td><img src="out\tennis_100000_foreground_0.gif"	border=0></td>    
+</tr></table>
