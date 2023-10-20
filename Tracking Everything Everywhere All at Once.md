@@ -1,6 +1,6 @@
 **Tracking Everything Everywhere All at Once**
 
-![image-20231017162604354](G:\GitHub\YUN\image\image-20231017162604354.png)
+![image-20231017162604354](https://github.com/CatherineYun/YUN/blob/main/image/image-20231017162604354.png)
 
 1. Related Work
 
