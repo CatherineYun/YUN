@@ -1,7 +1,4 @@
 # YUN
 
-<table><tr>
-<td><img src="out\butterfly_100000_0_trails.gif" border=0></td>
-<td><img src="out\butterfly_100000_background_0.gif"	border=0></td>
-<td><img src="out\butterfly_100000_foreground_0.gif"	border=0></td>
-</tr></table>
+1. Tracking Everything Everywhere All at Once.md 论文笔记
+2. OminiMotion_out.md ，Tracking Everything Everywhere All at Once的复现的视频结果
