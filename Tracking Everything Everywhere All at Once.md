@@ -1,6 +1,6 @@
 **Tracking Everything Everywhere All at Once**
 
-![image-20231017162604354](G:\GitHub\YUN\image\image-20231017162604354.png)
+![image-20231017162604354](./image/image-20231017162604354.png)
 
 1. Related Work
 
@@ -10,9 +10,9 @@
 
    OmniMotion 是一个新的测试时间优化方法，用于从视频序列中估计密集和长距离运动。；OmniMotion 将视频用准三维规范体表示，并通过局部和规范空间之间的双射（满足单射和满射）映射到每一帧的局部 volume。local-canonical bijection 被参数化为神经网络。并捕捉摄像机和场景的运动，不解开两者。可以被认为是从一个固定的，静态的照相机产生的local volume 的渲染
 
-   ![image-20231017163013035](G:\GitHub\YUN\image\image-20231017163013035.png)
+   ![image-20231017163013035](./image/image-20231017163013035.png)
 
-   ![image-20231019132228545](G:\GitHub\YUN\image\image-20231019132228545.png)
+   ![image-20231019132228545](./image/image-20231019132228545.png)
 
    **Canonical 3D volume** *G*作为观测场景的三维图集，在*G*上定义一个基于坐标的网络  *F*~θ~将每个规范坐标**u** *∈* *G*映射到一个密度*σ*和颜色*c*。存储在*G*中的密度是告诉曲面在规范空间中的位置。结合3D bijections，允许我们在多个帧上跟踪 surfaces，以及关于遮挡关系的原因；存储在*G*中的颜色允许在优化过程中计算photometric loss。
 
